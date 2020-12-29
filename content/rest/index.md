@@ -5,7 +5,7 @@ intro: 'You can use the {% data variables.product.prodname_dotcom %} REST API to
 redirect_from:
   - /v3
 versions:
-  free-pro-team: '*'
+  free-pro-team: '*'597647541825
   enterprise-server: '*'
   github-ae: '*'
 ---
